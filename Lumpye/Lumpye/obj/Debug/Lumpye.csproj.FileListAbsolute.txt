@@ -1,0 +1,8 @@
+E:\Project\Lumpye\Lumpye\obj\Debug\Lumpye.csprojResolveAssemblyReference.cache
+E:\Project\Lumpye\Lumpye\obj\Debug\Lumpye.MainForm.resources
+E:\Project\Lumpye\Lumpye\obj\Debug\Lumpye.csproj.GenerateResource.Cache
+E:\Project\Lumpye\Lumpye\bin\Debug\Lumpye.exe.config
+E:\Project\Lumpye\Lumpye\bin\Debug\Lumpye.exe
+E:\Project\Lumpye\Lumpye\bin\Debug\Lumpye.pdb
+E:\Project\Lumpye\Lumpye\obj\Debug\Lumpye.exe
+E:\Project\Lumpye\Lumpye\obj\Debug\Lumpye.pdb
